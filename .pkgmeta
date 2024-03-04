@@ -1,0 +1,7 @@
+package-as: AdiBags_Item_Sets
+enable-toc-creation: yes
+required-dependencies:
+    - AdiBags
+license-output: LICENSE
+tools-used:
+    - DevTool
