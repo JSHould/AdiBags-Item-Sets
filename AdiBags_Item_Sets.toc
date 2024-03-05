@@ -7,7 +7,7 @@
 ## Notes: Adds item sets filters to AdiBags.
 
 ## Version: @project-version@
-## Author: @project-author@
+## Author: Kimorokai
 
 ## DefaultState: Enabled
 ## Dependencies: AdiBags
